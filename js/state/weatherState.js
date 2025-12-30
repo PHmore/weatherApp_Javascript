@@ -1,0 +1,1 @@
+// Salvar cidades com track na memória volátil para uso em tempo real

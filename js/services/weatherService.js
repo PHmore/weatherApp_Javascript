@@ -1,0 +1,1 @@
+// Consome API ou retorna o MOCK

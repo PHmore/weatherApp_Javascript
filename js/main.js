@@ -1,0 +1,1 @@
+// Lida com chamada de funções e escuta eventos além de iniciar o carregamento da memórica

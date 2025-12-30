@@ -1,0 +1,1 @@
+// Salvar cidades com tracker na memória do navegador
